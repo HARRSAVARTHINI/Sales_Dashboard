@@ -11,6 +11,6 @@ Analysing data<br>
 Creating Interactive dashboard
 
 <h4>Retail Sales Dashboard</h4>
-![sales_dashboard](https://github.com/HARRSAVARTHINI/Sales_Dashboard/assets/114430138/5600a590-2c01-4712-9c28-f393cc56690e)
+![sales_dashboard](https://github.com/HARRSAVARTHINI/Sales_Dashboard/assets/114430138/19a4e35e-8324-4bf5-b6c1-9901ed6b420a)
 
 
