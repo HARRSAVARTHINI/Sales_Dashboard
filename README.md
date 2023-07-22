@@ -10,7 +10,7 @@ Collecting dataset<br>
 Analysing data<br>
 Creating Interactive dashboard
 
-
-
+<h4>Retail Sales Dashboard</h4>
+![sales_dashboard](https://github.com/HARRSAVARTHINI/Sales_Dashboard/assets/114430138/5600a590-2c01-4712-9c28-f393cc56690e)
 
 
